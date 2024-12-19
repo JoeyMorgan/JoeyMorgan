@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JoeyMorgan
-- 👀 I’m interested in ASP.Net, C#, SQL Server, SSIS, SSRS, and pretty much anything except golf.
-- 🌱 I’m currently learning Azure Databases and Applications
-- 💞️ I’m looking to collaborate on a project with standard templates for the things we use all the time.
+- 👀 I’m interested in .Net, C#, SQL Server, SSIS, SSRS, PowerBI and pretty much anything except golf.
+- 🌱 I’m currently learning Data Science with Python and ASP.Net Core.
 - 📫 How to reach me: My e-mail is a business e-mail, so please keep things professional. Reach me at joseph.morgan@gainwelltechnologies.com
 
 <!---
